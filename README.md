@@ -74,15 +74,15 @@ started working on the recipe in `recipe.md` together, and then each filled in t
 what they felt would make the most delicious cake!
 You'll notice that your repository already has two branches called `alice` and `bob`.
 
-- [ ] Checkout the `alice` branch.
-- [ ] Attempt to merge the `bob` branch into the `alice` branch using either IntelliJ or the Terminal.
+- [X ] Checkout the `alice` branch.
+- [X ] Attempt to merge the `bob` branch into the `alice` branch using either IntelliJ or the Terminal.
   - You will be prompted to resolve a merge conflict. To do this, you will need to pick and choose which
   parts of each recipe to keep.
   - Read what either `git` or `IntelliJ` tells you in order to complete the merge process.
     - If you do the merge through the Terminal, you will need to edit `recipe.md` to remove all of the
     merge conflict symbols which `git` has added to your file. Once done, you will need to `git add` the
     `recipe.md` file and `git commit` to finish the merge.
-- [ ] Once the merge is complete, delete the `bob` branch.
+- [X ] Once the merge is complete, delete the `bob` branch.
 
 - [ ] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
 
@@ -120,7 +120,7 @@ Note: you can use `git status` or `Git -> commit...` to see the status of your f
 ones have changes not yet committed.
 
 ### TASK 3 Additional Note
-
+git 
 When making a pull request, there may potentially be merge conflicts to resolve, as we had seen in the
 previous task. GitHub as additional information about how its interface helps facilitate resolving such
 conflicts:
