@@ -19,7 +19,7 @@
 6. Pour the batter into a greased and floured 9x13-inch baking pan.
 =======
 - 1/2 tsp ground cinnamon
-- ...
+- 1/2 tsp nutmeg
 
 ## Instructions:
 1. Preheat the oven to 375°F (190°C).
